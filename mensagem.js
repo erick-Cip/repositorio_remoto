@@ -1,2 +1,2 @@
 console.log('Oia ai');
-alert('Olá, Mundo!');
+console.log('Olá, Mundo!');
